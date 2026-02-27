@@ -1,2 +1,3 @@
-# quizbeeglobal
-Upload JSON and take your Quiz!
+# QUIZ BEE GLOBAL!
+
+JUST ASK US!
