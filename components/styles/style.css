@@ -1,0 +1,28 @@
+html, body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.mainMenu {
+    text-align: center;
+    width: 100%;
+    max-width: 800px;
+    min-width: 200px;
+    height: auto;
+    padding: 20px;
+    background: rgb(209, 209, 209);
+    border: 1.5px solid black;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+}
+
+#quizMenu {
+    width: 90%;
+    text-align: center;
+    height: 30px;
+    font-weight: bold;
+    font-size: medium;
+}
